@@ -31,7 +31,7 @@ Desenvolvedor(a) [Front-end / Back-end / Full Stack] em formação, apaixonado(a
   <a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:SEU_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://SEU_PORTFOLIO.com" target="_blank"><img src="https://img.shields.io/badge/Portfólio-FF5277?style=for-the-badge&logo=About.me&logoColor=white"/></a>
-  <a href="https://instagram.com/SEU_INSTAGRAM" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://instagram.com/gust_vsousa/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://discord.com/users/SEU_ID" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
