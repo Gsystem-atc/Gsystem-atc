@@ -3,8 +3,8 @@
 <h1 align="left">Oiii! Eu sou Gustavo sousa dos santos  👋</h1>
 
 <p align="left">
-Desenvolvedor(a) [Front-end / Back-end / Full Stack] em formação, apaixonado(a) por criar [o que você gosta de construir].<br>
-📍 [Cidade, Estado] · 🎓 [Curso / Instituição] · 💼 Aberto(a) a oportunidades
+Desenvolvedor(a) [Front-end / Back-end / Full Stack] em formação, apaixonado(a) por criar systemas web e mobiles.<br>
+📍 sou de São paulo/Osasco · 🎓 Curso: Análise e desenvolvimento de systema · 💼 Aberto(a) a oportunidades 
 </p>
 
 ---
@@ -12,7 +12,12 @@ Desenvolvedor(a) [Front-end / Back-end / Full Stack] em formação, apaixonado(a
 <div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gsystem-atc&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gsystem-atc&layout=compact&langs_count=8&theme=radical&hide_border=false"/>
+
+  <img src="https://flagcdn.com/w40/br.png" width="30" alt="Brasil" /> Português (nativo)
+<br>
+<img src="https://flagcdn.com/w40/us.png" width="30" alt="EUA" /> Inglês (intermediário)
 </div>
+
 
 ### 🛠️ Tecnologias
 
@@ -33,6 +38,6 @@ Desenvolvedor(a) [Front-end / Back-end / Full Stack] em formação, apaixonado(a
 ### 🐍 Minhas contribuições
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gsystem-atc/Gsystem-atc/output/github-contribution-grid-snake-dark.svg" />
   <img alt="snake de contribuições" src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg" />
 </picture>
